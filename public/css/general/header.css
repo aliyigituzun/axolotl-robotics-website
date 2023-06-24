@@ -22,8 +22,9 @@
     min-width: 300px;
     font-size: 36px;
     text-decoration: none;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Comfortaa', sans-serif;
     margin-left: 20px;
+    font-weight: 700;
 }
 #color1 {
     color: rgb(238, 139, 221);
